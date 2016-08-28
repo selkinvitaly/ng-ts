@@ -1,0 +1,24 @@
+{
+  "compilerOptions": {
+      "module": "commonjs",
+      "target": "es5",
+      "noImplicitAny": false,
+      "inlineSourceMap": true,
+      "removeComments": false,
+      "skipDefaultLibCheck": false,
+      "typeRoots": ["node_modules/@types"],
+      "types": ["angular", "angular-ui-router", "es6-promise"]
+  },
+  "compileOnSave": false,
+  "buildOnSave": false,
+  "formatCodeOptions": {
+    "indentSize": 2,
+    "tabSize": 2
+  },
+  "atom": {
+    "formatOnSave": false
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
