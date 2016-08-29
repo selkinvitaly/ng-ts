@@ -7,7 +7,7 @@
       "removeComments": false,
       "skipDefaultLibCheck": false,
       "typeRoots": ["node_modules/@types"],
-      "types": ["angular", "angular-ui-router", "es6-promise"]
+      "types": ["angular", "angular-ui-router", "es6-promise","node"]
   },
   "compileOnSave": false,
   "buildOnSave": false,
